@@ -160,7 +160,7 @@ h4 {
     padding: 15px;
 
     .main {
-      @include flex(flex-start, center, column);
+      @include flex(flex-start, flex-start, column);
       margin-bottom: 50px;
 
       .left {
@@ -263,7 +263,7 @@ h4 {
 
 @media (min-width: 400px) {
   h4 {
-    font-size: 39px;
+    font-size: 38px;
   }
 
   p {
