@@ -33,7 +33,7 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### Public API
-[Currents API](https://www.edamam.com/)
+[Edamam API](https://www.edamam.com/)
 
 ### Icon
 [Icon](https://www.flaticon.com/free-icon/fork_1046857?term=spoon%20and%20fork&page=1&position=13#)
