@@ -1,8 +1,13 @@
 # Recipes
+A web app with lots of recipes to choose from using Edamam API.
 
 ## Live
 
 [Click Me](https://narioalvin.github.io/vue-recipes/)
+
+### Requirements
+1. npm
+2. https://api.edamam.com/ API keys
 
 ## Project setup
 
